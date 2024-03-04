@@ -1,0 +1,26 @@
+/* Write your code here. */
+.select-image {
+  height: 50px;
+  width: 50px;
+  margin-right: 10px;
+  border-radius: 5px;
+}
+
+.user-select-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.gallery-app-container {
+  height: 100vh;
+  padding: 30px;
+}
+
+.paragraph-container {
+  padding-left: 39px;
+}
+
+.thumbnail-container {
+  display: flex;
+  flex-direction: row;
+}
